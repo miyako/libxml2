@@ -1,0 +1,73 @@
+{
+	"Sources/Classes/xmllint.4dm": {
+		"startSelection": 39,
+		"endSelection": 39,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [
+			2,
+			6,
+			10,
+			14,
+			44,
+			53,
+			55,
+			56,
+			60,
+			61,
+			62,
+			66,
+			67,
+			68,
+			70,
+			74
+		],
+		"bookmarks": [],
+		"stamp": "2024-11-30T11:15:05.048Z"
+	},
+	"Sources/Classes/xmlcatalog.4dm": {
+		"startSelection": 66,
+		"endSelection": 66,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-11-30T10:59:41.249Z"
+	},
+	"Sources/Methods/TEST.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-11-30T10:46:44.819Z"
+	},
+	"Sources/Classes/_xmlcatalog_Controller.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-11-30T10:48:25.132Z"
+	},
+	"Sources/Classes/_xmllint_Controller.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 25,
+		"lastSelectedLine": 25,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-11-30T10:50:05.039Z"
+	},
+	"Sources/Methods/TEST_lint.4dm": {
+		"startSelection": 2,
+		"endSelection": 2,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-11-30T11:18:18.330Z"
+	}
+}

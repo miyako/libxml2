@@ -1,0 +1,44 @@
+{
+	"Sources/Classes/xmllint.4dm": {
+		"left": 516,
+		"top": 443,
+		"width": 965,
+		"height": 454
+	},
+	"Sources/Classes/xmlcatalog.4dm": {
+		"left": 663,
+		"top": 305,
+		"width": 965,
+		"height": 454
+	},
+	"Sources/Methods/TEST.4dm": {
+		"left": 109,
+		"top": 268,
+		"width": 965,
+		"height": 454
+	},
+	"Sources/Classes/_xmlcatalog_Controller.4dm": {
+		"left": 663,
+		"top": 305,
+		"width": 965,
+		"height": 454
+	},
+	"Sources/Classes/_xmllint_Controller.4dm": {
+		"left": 663,
+		"top": 305,
+		"width": 965,
+		"height": 454
+	},
+	"Trash/Methods/(TEST_sign).4dm": {
+		"left": 663,
+		"top": 305,
+		"width": 965,
+		"height": 454
+	},
+	"Sources/Methods/TEST_lint.4dm": {
+		"left": 241,
+		"top": 457,
+		"width": 965,
+		"height": 454
+	}
+}

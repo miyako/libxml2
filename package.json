@@ -1,0 +1,22 @@
+{
+  "name": "libxml2",
+  "description": "libxml2",
+  "author": [
+    "Daniel Veillard <daniel@veillard.com>",
+    "Bjorn Reese <breese@users.sourceforge.net>",
+    "William Brack <wbrack@mmm.com.hk>",
+    "Igor Zlatkovic <igor@zlatkovic.com>",
+    "Aleksey Sanin <aleksey@aleksey.com>",
+    "Keisuke Miyako <keisuke.miyako@4D.com>"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/miyako/libxml2",
+  "version": "1.0.0",
+  "tool": {
+    "platform": "macos",
+    "branch": "20.x",
+    "version": "20.5",
+    "build": "latest",
+    "arch": "arm"
+  }
+}
