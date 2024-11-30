@@ -34,4 +34,8 @@ var $xmllint : cs.libxml2.xmllint
 $xmllint:=cs.libxml2.xmllint.new()
 
 ALERT($xmllint.c14n($one).data=$xmllint.c14n($two).data ? "same" : "not same")
+
+/*
+	also check .error to be sure
+*/
 ```
