@@ -1,18 +1,20 @@
 Class extends _CLI
 
-Class constructor()
+Class constructor($controller : 4D:C1709.Class)
 	
-	Super:C1705("xmllint"; cs:C1710._xmllint_Controller)
+	Super:C1705("xmllint"; $controller=Null:C1517 ? cs:C1710._xmllint_Controller : $controller)
+	
+	This:C1470.controller.timeout:=5
 	
 Function get worker() : 4D:C1709.SystemWorker
 	
-	return This:C1470._controller.worker
+	return This:C1470.controller.worker
 	
-Function get controller()->$controller : cs:C1710._xmllint_Controller
+Function get controller() : cs:C1710._xmllint_Controller
 	
-	$controller:=This:C1470._controller
+	return This:C1470._controller
 	
-Function _terminate()
+Function terminate()
 	
 	This:C1470.controller.terminate()
 	
@@ -66,7 +68,7 @@ Function perform($options : Collection) : cs:C1710.xmllint
 				
 			: (Value type:C1509($option)=Is text:K8:3)
 				Case of 
-					: ($option="--@")
+					: ($option="--@") || (Match regex:C1019("-[a-z]"; $option))
 						$command+=" "+$option
 					Else 
 						$command+=" "+This:C1470.escape($option)

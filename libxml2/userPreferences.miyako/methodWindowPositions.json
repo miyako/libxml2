@@ -1,9 +1,9 @@
 {
 	"Sources/Classes/xmllint.4dm": {
-		"left": 516,
-		"top": 443,
+		"left": 280,
+		"top": 211,
 		"width": 965,
-		"height": 454
+		"height": 553
 	},
 	"Sources/Classes/xmlcatalog.4dm": {
 		"left": 663,

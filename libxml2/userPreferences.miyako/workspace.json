@@ -1,16 +1,24 @@
 {
 	"editors": [
 		{
-			"type": "explorer"
-		},
-		{
 			"type": "method",
-			"id": 2147483609,
+			"id": 2147483625,
 			"codeDescriptor": {
 				"type": 12,
 				"className": "xmllint",
 				"methodPath": "/SOURCES/Classes/xmllint.4dm"
 			}
+		},
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "TEST_lint"
+			}
+		},
+		{
+			"type": "explorer"
 		}
 	]
 }
