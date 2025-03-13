@@ -17,7 +17,7 @@
     "dependencies": {
         "libxml2": {
             "github": "miyako/libxml2",
-            "version": "*"
+            "version": "latest"
         }
     }
 }
