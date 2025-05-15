@@ -11,11 +11,11 @@
   ],
   "license": "MIT",
   "repository": "https://github.com/miyako/libxml2",
-  "version": "1.0.3",
+  "version": "20.0.4",
   "tool": {
     "platform": "macos",
     "branch": "20.x",
-    "version": "20.5",
+    "version": "20.6",
     "build": "latest",
     "arch": "arm"
   }
